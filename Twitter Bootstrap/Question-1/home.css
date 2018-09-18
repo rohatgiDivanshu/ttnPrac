@@ -1,0 +1,143 @@
+.body{
+    width: 100%;
+    margin: 0%;
+}
+.card-header .dropdown{
+    float:right;
+}
+
+.row{
+margin-top: 20px;
+}
+/* .login{
+width: 83%;
+} */
+.loginSection{
+    width: 100%;
+}
+.loginSection .form-group row{
+margin-left: 6px;
+width: 525px;
+}
+.login .card{
+    border: 2px solid black;
+    max-width: 40rem;
+}
+.Register .card{
+    border: 2px solid black;
+    max-width: 40rem;
+}
+.col-7 .card{
+    border: 2px solid black;
+}
+nav{
+border: 2px solid black;
+border-radius: 8px;
+}
+#header #link{
+font-size: 30px;
+margin-bottom: 6px;
+border-bottom: 2px solid blue;
+}
+.media-object{
+    border: 2px solid black;
+    width: 73px;
+}
+.card-body .media .media-body {
+    font-size: 16px;
+    margin: -9px;
+    padding: 6px;
+    width: 43%;
+}
+.media-body h4{
+    margin-left: 24px;
+    font-size: 14px;
+}
+.media-body h4 .grails{
+    margin-left: 247px;
+}
+.media-body p{
+    text-align: justify;
+    margin-left: 24px;
+    font-size: 15px;
+    margin-top: -9px;
+    margin-bottom: 0rem;
+}
+.media-body ul li{
+    list-style: none;
+    /* display: flex; */
+}
+.media-body ul li .fab{
+    color: black;
+}
+.media-body ul li .viewpost{
+    text-align: right;
+    margin-left: 280px;
+    border-bottom: 1px solid blue;
+}
+.media-body ul{
+    justify-content: space-between;
+    display: flex;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-left: -14px;
+    width: -1%;
+}
+.col-sm-10 .password a{
+    border-bottom: 1px solid blue;
+}
+.col-sm-10 .btn{
+    float: right;
+    width: 40%;
+    border: 2px solid black;
+  
+   }
+   #header .form-inline .form-control{
+       position: relative;
+       border-radius: 28px;
+    width: 269px;
+    text-decoration: none;
+   }
+   #header .form-inline a{
+    text-decoration: none;
+    position: absolute;
+    margin-left: 14px;
+    /* list-style: none; */
+    color: black;
+    font-size: unset;
+   }
+#header .form-inline #search-clear{
+    text-decoration: none;
+    position: absolute;
+    right: 38px;
+    top: 23px;
+    color: black;
+}
+
+.Register .form-group{
+    margin: 0px;
+}
+.Register .col-sm-10 .form-control{
+    width: 262px;
+    margin-left: 49px;
+    padding: -2px;
+    margin-top: 11px;
+}
+.Register .custom-file .custom-file-label{
+    width: 200px;
+    margin-left: 180px;
+    margin-top: 10px;
+}
+.Register .form-group .btn{
+    width: 42%;
+    margin-top: 27px;
+    /* float: right; */
+    /* margin-left: 53%; */
+    margin-right: -83px;
+}
+   
+   /* #header .form-inline a .fa{
+       text-decoration: none;
+   } */
+
+
